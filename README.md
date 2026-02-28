@@ -178,6 +178,71 @@ Render 可以直接部署 docker 镜像,不需要 fork 仓库：[Render](https:/
 
 ### 对话模型
 
+| 模型名称 |
+|-----------------------------------------|
+| amazon.nova-pro-v1:0 |
+| chatgpt-4o-latest-20250326 |
+| claude-3-5-haiku-20241022 |
+| claude-3-5-sonnet-20241022 |
+| claude-3-7-sonnet-20250219 |
+| claude-3-7-sonnet-20250219-thinking-32k |
+| claude-haiku-4-5-20251001 |
+| claude-opus-4-1-20250805 |
+| claude-opus-4-1-20250805-thinking-16k |
+| claude-opus-4-1-search |
+| claude-opus-4-20250514 |
+| claude-opus-4-20250514-thinking-16k |
+| claude-opus-4-5-20251101 |
+| claude-opus-4-5-20251101-thinking-32k |
+| claude-opus-4-5-search |
+| claude-opus-4-6 |
+| claude-opus-4-6-search |
+| claude-opus-4-6-thinking |
+| claude-opus-4-search |
+| claude-sonnet-4-20250514 |
+| claude-sonnet-4-20250514-thinking-32k |
+| claude-sonnet-4-5-20250929 |
+| claude-sonnet-4-5-20250929-thinking-32k |
+| claude-sonnet-4-5-search |
+| claude-sonnet-4-6 |
+| claude-sonnet-4-6-search |
+| command-a-03-2025 |
+| deepseek-v3-0324 |
+| gemini-2.0-flash-001 |
+| gemini-2.5-flash-preview-04-17 |
+| gemini-2.5-pro-preview-05-06 |
+| gemma-3-27b-it |
+| gpt-4.1-2025-04-14 |
+| gpt-4.1-mini-2025-04-14 |
+| grok-3-mini-beta |
+| grok-3-preview-02-24 |
+| llama-3.3-70b-instruct |
+| llama-4-maverick-03-26-experimental |
+| llama-4-maverick-17b-128e-instruct |
+| mistral-medium-2505 |
+| o3-2025-04-16 |
+| o3-mini |
+| o4-mini-2025-04-16 |
+| qwen-max-2025-01-25 |
+| qwen3-235b-a22b |
+| qwen3-30b-a3b |
+| qwq-32b |
+
+### 生图模型
+
+| 模型名称 |
+|-------------------------------------------|
+| dall-e-3 |
+| flux-1.1-pro |
+| gemini-2.0-flash-preview-image-generation |
+| gpt-image-1 |
+| ideogram-v2 |
+| imagen-3.0-generate-002 |
+| photon |
+| recraft-v3 |
+
+## 对话模型
+
 | 模型名称                                    |
 |-----------------------------------------|
 | chatgpt-4o-latest-20250326              |
